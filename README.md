@@ -19,4 +19,5 @@ Jupyter notebook, PostgreSQL and pgAdmin, Microsoft Excel
 
 # Authors
 Neha Changela
+
 Allison Potestio
