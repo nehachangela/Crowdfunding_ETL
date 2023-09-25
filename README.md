@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
-# Mini Project 2 Rutgers Data Visualization Bootcamp 
-# September 25, 2023
+## Mini Project 2 Rutgers Data Visualization Bootcamp 
+## September 25, 2023
 
 # Description
 
