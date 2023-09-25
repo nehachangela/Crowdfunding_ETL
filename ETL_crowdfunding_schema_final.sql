@@ -42,7 +42,7 @@ CREATE TABLE campaign (
     backers_count int   NOT NULL,
     country varchar (300)  NOT NULL,
     currency varchar (300)  NOT NULL,
-    launched_date date   NOT NULL,
+    launch_date date   NOT NULL,
     end_date date   NOT NULL,
     category_id varchar (300)  NOT NULL,
     subcategory_id varchar (300)  NOT NULL,
